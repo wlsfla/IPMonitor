@@ -1,0 +1,9 @@
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\bin\Release\IP Monitor.exe.config
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\bin\Release\IP Monitor.exe
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\bin\Release\IP Monitor.pdb
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\obj\Release\IP Monitor.csprojResolveAssemblyReference.cache
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\obj\Release\IP_Monitor.MainForm.resources
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\obj\Release\IP_Monitor.Properties.Resources.resources
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\obj\Release\IP Monitor.csproj.GenerateResource.Cache
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\obj\Release\IP Monitor.exe
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\obj\Release\IP Monitor.pdb

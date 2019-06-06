@@ -1,0 +1,2 @@
+c:\users\kk2\documents\visual studio 2015\Projects\IP Monitor\IP Monitor\bin\Debug\IP Monitor.exe.config
+C:\Users\kk2\Desktop\IP Monitor\IP Monitor\IP Monitor\bin\Debug\IP Monitor.exe.config
